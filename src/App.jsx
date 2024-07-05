@@ -32,7 +32,7 @@ const siteProps = {
   linkedIn: "titash-majumder-a89121258",
   facebook: "titash.majumder.9",
   twitter: "TitashMajumder",
-  youTube: "Code",
+  youTube: "",
 };
 
 const primaryColor = "#4E567E";
