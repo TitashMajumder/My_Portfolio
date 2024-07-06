@@ -24,13 +24,13 @@ const imageAltText = "mountain background";
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "I'm a IT student studying at RCC ISTITUTE OF INFORMATION TECHNOLOGY. I'm also an cyber security enthusiast who belives in practical project more than theory.";
+  "I'm a IT student studying at RCC ISTITUTE OF INFORMATION TECHNOLOGY. I'm also an cyber security enthusiast who belives in practical more than theory.";
 
 /**
  * List of some of skills or technologies you work on, are learning,
  * passionate about, or enjoy,
  */
-const skillsList = ["Web developer", "C Language", "Python", "Java"];
+const skillsList = ["HTML", "C Language", "Python", "Java", "css", "JS"];
 
 /**
  * Use this to give more information about what you are passionate about,
@@ -38,7 +38,7 @@ const skillsList = ["Web developer", "C Language", "Python", "Java"];
  * about you on a professional level.
  */
 const detailOrQuote =
-  "I am Titash Majumder, a B.Tech student specializing in IT, deeply passionate about cybersecurity. I have honed my skills through coursework and practical projects, and I am eager to contribute my knowledge to securing digital environments. My goal is to pursue a career applying my expertise in cybersecurity to tackle emerging threats and safeguard sensitive information effectively.";
+  "I am Titash Majumder, a B.Tech student specializing in IT, deeply passionate about cybersecurity. I have honed my skills through coursework and practical projects, and I am eager to contribute my knowledge to securing digital environments. My goal is to pursue a career applying my expertise in cybersecurity to tackle emerging threats and safeguard sensitive information effectively.";
 
 const About = () => {
   return (

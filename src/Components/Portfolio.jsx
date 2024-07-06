@@ -40,7 +40,7 @@ const projectList = [
     title: "My Portfolio",
     description:
       "Created from Microsoft's Javascript workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+    url: "https://titashmajumder.github.io/My_Portfolio/",
   },
 ];
 
