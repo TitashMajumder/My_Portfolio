@@ -24,7 +24,7 @@ const imageAltText = "mountain background";
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "I'm a UI/UX student studying at Barnett Technical University. I enjoy creating unique and simplistic user interfaces in creative ways.";
+  "I'm a IT student studying at RCC ISTITUTE OF INFORMATION TECHNOLOGY. I'm also an cyber security enthusiast who belives in practical project more than theory.";
 
 /**
  * List of some of skills or technologies you work on, are learning,
@@ -38,7 +38,7 @@ const skillsList = ["Web developer", "C Language", "Python", "Java"];
  * about you on a professional level.
  */
 const detailOrQuote =
-  "I am passionate about solving problems in new creative ways to drive innovation. By leveraging my UI/UX experience I continually look for new and better ways to make tech accessible by all.";
+  "I am Titash Majumder, a B.Tech student specializing in IT, deeply passionate about cybersecurity. I have honed my skills through coursework and practical projects, and I am eager to contribute my knowledge to securing digital environments. My goal is to pursue a career applying my expertise in cybersecurity to tackle emerging threats and safeguard sensitive information effectively.";
 
 const About = () => {
   return (
